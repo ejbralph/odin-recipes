@@ -1,0 +1,16 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+    background-color: rgb(205, 33, 42);
+}
+
+h1 {
+   font-size: 38px;
+   background-color: rgb(205, 33, 42);
+   color: rgb(244, 249, 255);
+}
+
+.list {
+    font-size: 32px;
+   
+}
+
