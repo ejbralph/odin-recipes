@@ -1,14 +1,40 @@
 h1 {
     background-color: rgb(205, 33, 42);
+    border: 1px solid rgb(244, 249, 255);
+    padding: 10px;
+    padding-left: 20px;
+    
 }
 
 * {
     background: rgb(0, 140, 69);
     color: rgb(244, 249, 255);
+    font-family:  Georgia, serif
+   
 }
 
 h3 {
     background-color: rgb(205, 33, 42);
+    border: 1px solid rgb(244, 249, 255);
+    padding: 5px;
+    padding-left: 20px;
 
+}
 
+ul,
+ol,
+p {
+    border: 1px solid rgb(244, 249, 255);
+    padding: 10px;
+    padding-left: 40px;
+
+}
+
+img {
+    border: 1px solid rgb(244, 249, 255);
+
+}
+
+li {
+    margin: 10px;
 }
